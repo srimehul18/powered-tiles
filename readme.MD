@@ -75,3 +75,5 @@ Select board → Arduino Uno
 Connect components as per circuit diagram
 
 Upload code and test by stepping on tile
+
+Created by -Team power tiles
